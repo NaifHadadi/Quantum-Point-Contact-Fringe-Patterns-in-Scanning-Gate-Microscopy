@@ -6,14 +6,10 @@ This repository provides simulations and basic analytical models to study fringe
 
 ### Included:
 
-- 🧪 Simple toy model using Green’s functions  
-- ⚙️ Parameter studies: gate voltage, hopping, tip position  
-- 🔄 Comparisons with more realistic models (e.g., disorder, magnetic field)  
-- 📈 Curve fitting for experimental-style fringe data  
-
----
-
-> Designed for studying mesoscopic transport using efficient numerical tools.
+-  Simple toy model using Green’s functions  
+-  Parameter studies: gate voltage, hopping, tip position  
+- Comparisons with more realistic models
+- Curve fitting for experimental-style fringe data  
 
 ---
 
